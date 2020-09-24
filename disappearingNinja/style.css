@@ -1,0 +1,9 @@
+#ninjadis{
+    display: flex;
+    flex-wrap: wrap;
+    width: auto;
+}
+#ninja1{
+    height:200px;
+    width: 200px;
+}
